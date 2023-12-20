@@ -63,10 +63,11 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 ![image](https://user-images.githubusercontent.com/76579538/173190766-2db8c064-2de3-4bb8-86aa-0bbb1177380a.png)
 
 ### Member Name
+
 | (ML) M253BSY1790 | I Dewa Made Aditya P | Machine Learning | Mataram University |                             
 | (ML) M253BSX1781 | Jinan Ambar | Machine Learning | Mataram University |                             
 | (ML) M183BSY0769 | Galih Anggriawan | Machine Learning | Amikom University Yogyakarta |                             
 | (CC) C226BSY3930 | Panji Abdillah Maulana | Cloud Computing | Jambi University |                             
 | (CC) C226BSY3931 | Kelvin Adinata | Cloud Computing | Jambi University |                             
-| (MD) A183BSY2347 | Adnan Lutfi | Cloud Computing | Amikom University Yogyakarta | 
+| (MD) A183BSY2347 | Adnan Lutfi | Cloud Computing | Amikom University Yogyakarta | <br>
 | (MD) A272BSY2916 | M. Farhan Amansyah | Cloud Computing | Indonesian Muslim University |
