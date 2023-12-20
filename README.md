@@ -70,7 +70,7 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 
 <img src="https://user-images.githubusercontent.com/76579538/173190766-2db8c064-2de3-4bb8-86aa-0bbb1177380a.png">
 
-### Member Name
+### Member Name :
 
 | (ML) M253BSY1790 | I Dewa Made Aditya P | Machine Learning | Mataram University |                             
 | (ML) M253BSX1781 | Jinan Ambar | Machine Learning | Mataram University |                             
