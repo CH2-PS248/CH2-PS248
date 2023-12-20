@@ -20,7 +20,7 @@
 ## <a name="features"></a> Features :
 A few features has on this app :
 
-* <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time
+* <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time detection
   
 * <b>Text-To-Speech</b> : feature converts text into sound
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/be752f2c-7500-4781-b3c5-51d741a14c4d" width="300" height="600">
