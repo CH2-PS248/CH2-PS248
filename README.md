@@ -30,10 +30,13 @@ A few features SumbanginAja's has on this app :
   - <b>Cloud Storage</b>
   - <b>Text To Speech API</b>
   - <b>News API</b>
-  - 
-  - [Retrofit](https://square.github.io/retrofit/)
-  - [Hilt as Dependency Injection](https://developer.android.com/training/dependency-injection/hilt-android?hl=id)   
-  - [Ok Http 3](https://square.github.io/okhttp/) 
+  - <b>TF keras</b>
+  - <b>Tensorflow Lite</b>
+  - <b>Google Colab</b>
+  - <b>Datasets</b>
+  - <b>CameraX</b>
+  - <b>Retrofit</b>
+  - <b>mvvm</b>
 
 ## <a name="project-structures"></a> Project Structure :
 * `adapter`
