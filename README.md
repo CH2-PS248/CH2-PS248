@@ -24,9 +24,11 @@ A few features has on this app :
   
 * <b>Text-To-Speech</b> : feature converts text into sound
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/be752f2c-7500-4781-b3c5-51d741a14c4d" width="300" height="600">
+
   
 * <b>News<b> : The feature provides news about disabilities to users 
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/9b8c900b-3831-49e1-a1ad-3f366cc670b5" width="300" height="600">
+
 
 ## <a name="libraries"></a> Tools, Service and Libraries :
   - <b>Cloud Run</b>
@@ -62,7 +64,7 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 
 ### News
 - Start the App, and then you can see some news will be displayed
-![image](https://drive.google.com/file/d/1gMUBlpsbiAYRlqWqKgRMK6LjkNxHihfk/view?usp=sharing)
+
 
 ## Our Team! 👋
 
