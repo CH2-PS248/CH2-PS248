@@ -54,9 +54,11 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 - start the app, and then click Text to Speech
 - Type a few words that you want to convey
 - then click the speaker icon to hear the sound of the text you type
+- ![image](https://drive.google.com/file/d/1A68MMZNRrepQ3qG-4ZPd5q7hbM__pW9-/view?usp=sharing)
 
 ### News
 - Start the App, and then you can see some news will be displayed
+![image](https://drive.google.com/file/d/1gMUBlpsbiAYRlqWqKgRMK6LjkNxHihfk/view?usp=sharing)
 
 ## Our Team! 👋
 
