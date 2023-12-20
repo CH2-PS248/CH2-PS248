@@ -8,7 +8,7 @@
 # Tedi (Teman Disablitas)
 
 ## <a name="introduction"></a> Introduction :
-TeDi, an all-in-one accessibility app to make everyday life easier for disabled people. There are 6 main features, namely BISINDO Translation, Object Detection, Color Detection, Money Detection, Text Detection, and Family Help. In addition, there are in-app bug reports to report crashes within the application.. TeDi App Powered by Kotlin, Android Jetpack, and Koin, also implementing [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+"HALITRA", is an accessibility mobile application that empowers users with disabilities who are prevented from communicating effectively. There are 3 features in this application, namely real-time sign translator, text-to-speech, and news about disabilities. HHalitra is done by a team consisting of 2 cloud computing people, 3 machine learning, and 2 mobile development people
 
 ## Table of Contents
 
