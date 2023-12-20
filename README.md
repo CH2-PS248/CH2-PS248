@@ -15,7 +15,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Libraries](#libraries)
-- [Project Structure](#project-structures)
+- [User Manual](#user-manual)
 
 ## <a name="features"></a> Features :
 A few features SumbanginAja's has on this app :
@@ -34,49 +34,27 @@ A few features SumbanginAja's has on this app :
   - <b>Tensorflow Lite</b>
   - <b>Google Colab</b>
   - <b>Datasets</b>
+  - <b>Kotlin</b>
   - <b>CameraX</b>
   - <b>Retrofit</b>
   - <b>mvvm</b>
 
-## <a name="project-structures"></a> Project Structure :
-* `adapter`
-* `analysis`
-* `analyzer`
-* `base`
-* `core_model`
-* `custom_view`
-* `data`
-* `di`
-* `factory`
-* `interfaces`
-  - `observer_analyzer`
-  - `observer_cloud`
-  - `observer_cloudstorage`!
-  - `observer_core`
-  - `observer_keyboard`
-* `notification`
-* `presentation`
-  - `about`
-  - `bugreport`
-  - `dialog`
-  - `familyhelp`
-  - `faq`
-  - `feature_cloud`
-  - `feature_color`
-  - `feature_currency`
-  - `feature_object`
-  - `feature_sign_language`
-  - `feature_text`
-  - `help`
-  - `home`
-  - `instruction`
-  - `onboarding`
-  - `profile`
-  - `splash`
-  - `termagreement`
-  - `view`
-* `utils`
-  - `dialogs`
-  - `ext`
-  - `image_utility`  
+## <a name="user-manual"></a> User Manual :
+
+### Install Nutriast application
+Before going further, first, you have to install the app on your phone (Android). <br />
+Click [here](https://drive.google.com/file/d/1rM5bN0cKS3Us0hZ_pkI7Y_1EF-Ka6WO7/view?usp=sharing) to download the APK, then install it on your phone. 
+
+### Sign Translator
+- Start the app, and then click Sign Translator
+- automatically turn on the camera, then visualize your sign language
+- then the sign language translation will appear
+
+### Text-To-Speech
+- start the app, and then click Text to Speech
+- Type a few words that you want to convey
+- then click the speaker icon to hear the sound of the text you type
+
+### News
+- Start the App, and then you can see some news will be displayed
 
