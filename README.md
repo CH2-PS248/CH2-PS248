@@ -62,7 +62,7 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 
 ## Our Team! 👋
 
-![image](https://user-images.githubusercontent.com/76579538/173190766-2db8c064-2de3-4bb8-86aa-0bbb1177380a.png)
+<img src="https://user-images.githubusercontent.com/76579538/173190766-2db8c064-2de3-4bb8-86aa-0bbb1177380a.png">
 
 ### Member Name
 
