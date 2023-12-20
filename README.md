@@ -21,10 +21,10 @@
 A few features SumbanginAja's has on this app :
 
 * <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time
-  <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/197b5b52-6f6d-4034-9680-54c39b4f0933" width="300" height="500">
 * <b>Text-To-Speech</b> : feature converts text into sound
+  <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/197b5b52-6f6d-4034-9680-54c39b4f0933" width="300" height="600">
 * <b>News<b> : The feature provides news about disabilities to users 
-<img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/9b8c900b-3831-49e1-a1ad-3f366cc670b5" width="300" height="500">
+<img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/9b8c900b-3831-49e1-a1ad-3f366cc670b5" width="300" height="600">
 
 ## <a name="libraries"></a> Tools, Service and Libraries :
   - <b>Cloud Run</b>
