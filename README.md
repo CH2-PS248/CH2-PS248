@@ -43,7 +43,7 @@ A few features SumbanginAja's has on this app :
 
 ### Install Nutriast application
 Before going further, first, you have to install the app on your phone (Android). <br />
-Click [here](https://drive.google.com/file/d/1rM5bN0cKS3Us0hZ_pkI7Y_1EF-Ka6WO7/view?usp=sharing) to download the APK, then install it on your phone. 
+Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/view?usp=sharing) to download the APK, then install it on your phone. 
 
 ### Sign Translator
 - Start the app, and then click Sign Translator
@@ -58,3 +58,16 @@ Click [here](https://drive.google.com/file/d/1rM5bN0cKS3Us0hZ_pkI7Y_1EF-Ka6WO7/v
 ### News
 - Start the App, and then you can see some news will be displayed
 
+## Our Team! 👋
+
+![image](https://user-images.githubusercontent.com/76579538/173190766-2db8c064-2de3-4bb8-86aa-0bbb1177380a.png)
+
+| Bangkit ID | Name | Learning Path | University |
+| ----- | ----- | ----- | ----- | ----- |
+| (ML) M253BSY1790 | I Dewa Made Aditya P | Machine Learning | Mataram University |                             
+| (ML) M253BSX1781 | Jinan Ambar | Machine Learning | Mataram University |                             
+| (ML) M183BSY0769 | Galih Anggriawan | Machine Learning | Amikom University Yogyakarta |                             
+| (CC) C226BSY3930 | Panji Abdillah Maulana | Cloud Computing | Jambi University |                             
+| (CC) C226BSY3931 | Kelvin Adinata | Cloud Computing | Jambi University |                             
+| (MD) A183BSY2347 | Adnan Lutfi | Cloud Computing | Amikom University Yogyakarta | 
+| (MD) A272BSY2916 | M. Farhan Amansyah | Cloud Computing | Indonesian Muslim University |
