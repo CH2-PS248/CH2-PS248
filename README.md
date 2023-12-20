@@ -18,7 +18,7 @@
 - [User Manual](#user-manual)
 
 ## <a name="features"></a> Features :
-A few features SumbanginAja's has on this app :
+A few features has on this app :
 
 * <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time
   
