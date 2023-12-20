@@ -21,6 +21,7 @@
 A few features SumbanginAja's has on this app :
 
 * <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time
+  ![IMG_20231221_003933](https://github.com/CH2-PS248/CH2-PS248/assets/152416965/197b5b52-6f6d-4034-9680-54c39b4f0933)
 * <b>Text-To-Speech</b> : feature converts text into sound
 * <b>News<b> : The feature provides news about disabilities to users 
 
@@ -54,7 +55,7 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 - start the app, and then click Text to Speech
 - Type a few words that you want to convey
 - then click the speaker icon to hear the sound of the text you type
-![IMG_20231221_003933](https://github.com/CH2-PS248/CH2-PS248/assets/152416965/197b5b52-6f6d-4034-9680-54c39b4f0933)
+
 
 
 ### News
