@@ -54,7 +54,8 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 - start the app, and then click Text to Speech
 - Type a few words that you want to convey
 - then click the speaker icon to hear the sound of the text you type
-- ![image](https://drive.google.com/file/d/1A68MMZNRrepQ3qG-4ZPd5q7hbM__pW9-/view?usp=sharing)
+![IMG_20231221_003933](https://github.com/CH2-PS248/CH2-PS248/assets/152416965/197b5b52-6f6d-4034-9680-54c39b4f0933)
+
 
 ### News
 - Start the App, and then you can see some news will be displayed
