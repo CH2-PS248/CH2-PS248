@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# HALITRA (Hasta Lingua Translator)
+# HALITRA (Hasta Lingua Translator) 👋
 
 ## <a name="introduction"></a> Introduction :
 "HALITRA", is an accessibility mobile application that empowers users with disabilities who are prevented from communicating effectively. There are 3 features in this application, namely real-time sign translator, text-to-speech, and news about disabilities. HHalitra is done by a team consisting of 2 cloud computing people, 3 machine learning, and 2 mobile development people
@@ -50,19 +50,19 @@ A few features has on this app :
 Before going further, first, you have to install the app on your phone (Android). <br />
 Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/view?usp=sharing) to download the APK, then install it on your phone. 
 
-### Sign Translator
+**1. Sign Translator**
 - Start the app, and then click Sign Translator
 - automatically turn on the camera, then visualize your sign language
 - then the sign language translation will appear
 
-### Text-To-Speech
+**2. Text-To-Speech**
 - start the app, and then click Text to Speech
 - Type a few words that you want to convey
 - then click the speaker icon to hear the sound of the text you type
 
 
 
-### News
+**3. News**
 - Start the App, and then you can see some news will be displayed
 
 
