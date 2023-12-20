@@ -1,11 +1,11 @@
-<h1 align="center"> TeDi - Teman Disabilitas</h1> <br>
+<h1 align="center"> HALITRA (Hasta Lingua Translator) </h1> <br>
 <p align="center">
   <a href="https://user-images.githubusercontent.com/36506828/208969534-2c0a1d21-f1a6-4241-98e0-76bd39899885.png">
     <img alt="TeDi" title="TeDi" src="https://user-images.githubusercontent.com/36506828/208969534-2c0a1d21-f1a6-4241-98e0-76bd39899885.png" width="500">
   </a>
 </p>
 
-# Tedi (Teman Disablitas)
+# HALITRA (Hasta Lingua Translator)
 
 ## <a name="introduction"></a> Introduction :
 "HALITRA", is an accessibility mobile application that empowers users with disabilities who are prevented from communicating effectively. There are 3 features in this application, namely real-time sign translator, text-to-speech, and news about disabilities. HHalitra is done by a team consisting of 2 cloud computing people, 3 machine learning, and 2 mobile development people
@@ -20,22 +20,17 @@
 ## <a name="features"></a> Features :
 A few features SumbanginAja's has on this app :
 
-* Google Login
-* <b>BISINDO Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia)
-* <b>Object Detection</b> : Feature to detecting objects around user
-* <b>Text Detection</b> : Feature to read the text from the book, paper, etc 
-* <b>Currency Detection</b> : Feature to classify the money paper (Rupiah)
-* <b>Color Detection</b> : Feature to detecting the color
-* <b>Family Help</b> : Feature to for emergency purpose 
-* <b>Bug Report<b> : Feature for reporting if the users found out some bugs or error inside of this app 
+* <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time
+* <b>Text-To-Speech</b> : feature converts text into sound
+* <b>News<b> : The feature provides news about disabilities to users 
 
 
-## <a name="libraries"></a> Libraries :
-  - [Android Jetpack](https://developer.android.com/jetpack)
-  - [Lifecycle & Livedata](https://developer.android.com/jetpack/androidx/releases/lifecycle)
-  - [Kotlin Flow](https://developer.android.com/kotlin/flow)
-  - [Navigation Component](https://developer.android.com/jetpack/androidx/releases/navigation)
-  - [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
+## <a name="libraries"></a> Tools, Service and Libraries :
+  - <b>Cloud Run</b>
+  - <b>Cloud Storage</b>
+  - <b>Text To Speech API</b>
+  - <b>News API</b>
+  - 
   - [Retrofit](https://square.github.io/retrofit/)
   - [Hilt as Dependency Injection](https://developer.android.com/training/dependency-injection/hilt-android?hl=id)   
   - [Ok Http 3](https://square.github.io/okhttp/) 
