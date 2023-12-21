@@ -22,16 +22,16 @@
 A few features has on this app :
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/e178098f-7410-4626-b811-f9c34fc6d6f7">
 
-**1. Real-Time Sign Translator**
+**1. Real-Time Sign Translator** </br>
 Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time detection
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/c16e2e5f-c8ef-44fd-a51b-6c4c2423316d">
   
-**2. Text-To-Speech**
+**2. Text-To-Speech** </br>
 Feature converts text into sound
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/2e642346-8119-431d-9a30-326e5932f897">
 
   
-**3. News**
+**3. News** </br>
 The feature provides news about disabilities to users 
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/e5b21f35-3195-4bb8-adb0-0f9dea3286bd">
 
