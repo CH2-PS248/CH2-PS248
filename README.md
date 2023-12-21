@@ -1,7 +1,7 @@
 <h1 align="center"> HALITRA (Hasta Lingua Translator) </h1> <br>
 <p align="center">
   <a href="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/964dd865-e3f6-4131-a372-c761a07239a0">
-    <img alt="TeDi" title="TeDi" src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/964dd865-e3f6-4131-a372-c761a07239a0" width="500">
+    <img alt="HALITRA" title="HALITRA" src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/964dd865-e3f6-4131-a372-c761a07239a0" width="500">
   </a>
 </p>
 
@@ -14,12 +14,13 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Libraries](#libraries)
+- [Tools, Service and Libraries](#libraries)
 - [User Manual](#user-manual)
+- [Our Team](#team)
 
 ## <a name="features"></a> Features :
 A few features has on this app :
-<img src="">
+<img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/e178098f-7410-4626-b811-f9c34fc6d6f7">
 
 * <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time detection
   
@@ -47,7 +48,7 @@ A few features has on this app :
 
 ## <a name="user-manual"></a> User Manual :
 
-### Install Nutriast application
+### Install HALITRA application
 Before going further, first, you have to install the app on your phone (Android). <br />
 Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/view?usp=sharing) to download the APK, then install it on your phone. 
 
@@ -67,7 +68,7 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 - Start the App, and then you can see some news will be displayed
 
 
-## Our Team! 👋
+## <a name="team"></a> Our Team! 👋
 
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/52f4e8dd-0e94-402c-8a49-4feb8c1db2c1)">
 
