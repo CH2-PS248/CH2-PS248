@@ -1,7 +1,7 @@
 <h1 align="center"> HALITRA (Hasta Lingua Translator) </h1> <br>
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/36506828/208969534-2c0a1d21-f1a6-4241-98e0-76bd39899885.png">
-    <img alt="TeDi" title="TeDi" src="https://user-images.githubusercontent.com/36506828/208969534-2c0a1d21-f1a6-4241-98e0-76bd39899885.png" width="500">
+  <a href="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/964dd865-e3f6-4131-a372-c761a07239a0">
+    <img alt="TeDi" title="TeDi" src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/964dd865-e3f6-4131-a372-c761a07239a0" width="500">
   </a>
 </p>
 
