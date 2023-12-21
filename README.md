@@ -23,6 +23,7 @@ A few features has on this app :
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/e178098f-7410-4626-b811-f9c34fc6d6f7">
 
 * <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time detection
+<img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/c16e2e5f-c8ef-44fd-a51b-6c4c2423316d">
   
 * <b>Text-To-Speech</b> : feature converts text into sound
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/2e642346-8119-431d-9a30-326e5932f897">
@@ -74,10 +75,10 @@ Click [here](https://drive.google.com/file/d/1dyaXPNRx5msiKtOiURt2x7PRtP2GaYLy/v
 
 ### Member Name :
 
-| (ML) M253BSY1790 | I Dewa Made Aditya P | Machine Learning | Mataram University |                             
-| (ML) M253BSX1781 | Jinan Ambar | Machine Learning | Mataram University |                             
-| (ML) M183BSY0769 | Galih Anggriawan | Machine Learning | Amikom University Yogyakarta |                             
-| (CC) C226BSY3930 | Panji Abdillah Maulana | Cloud Computing | Jambi University |                             
-| (CC) C226BSY3931 | Kelvin Adinata | Cloud Computing | Jambi University |                             
-| (MD) A183BSY2347 | Adnan Lutfi | Cloud Computing | Amikom University Yogyakarta | <br>
-| (MD) A272BSY2916 | M. Farhan Amansyah | Cloud Computing | Indonesian Muslim University |
+- (ML) M253BSY1790 | I Dewa Made Aditya P | Machine Learning | Mataram University |                             
+- (ML) M253BSX1781 | Jinan Ambar | Machine Learning | Mataram University |                             
+- (ML) M183BSY0769 | Galih Anggriawan | Machine Learning | Amikom University Yogyakarta |                             
+- (CC) C226BSY3930 | Panji Abdillah Maulana | Cloud Computing | Jambi University |                             
+- (CC) C226BSY3931 | Kelvin Adinata | Cloud Computing | Jambi University |                             
+- (MD) A183BSY2347 | Adnan Lutfi | Cloud Computing | Amikom University Yogyakarta | <br>
+- (MD) A272BSY2916 | M. Farhan Amansyah | Cloud Computing | Indonesian Muslim University |
