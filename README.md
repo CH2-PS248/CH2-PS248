@@ -19,6 +19,7 @@
 
 ## <a name="features"></a> Features :
 A few features has on this app :
+<img src="">
 
 * <b>Real-Time Sign Translator</b> : Feature to translating BISINDO (Bahasa Isyarat Indonesia) with real-time detection
   
@@ -27,7 +28,7 @@ A few features has on this app :
 
   
 * <b>News<b> : The feature provides news about disabilities to users 
-<img src="https://github.com/CH2-PS248/CH2-PS248/issues/5#issue-2051961049">
+<img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/e5b21f35-3195-4bb8-adb0-0f9dea3286bd">
 
 
 ## <a name="libraries"></a> Tools, Service and Libraries :
