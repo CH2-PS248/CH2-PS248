@@ -21,13 +21,18 @@
 ## <a name="features"></a> Features :
 A few features has on this app :
 
+
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/e178098f-7410-4626-b811-f9c34fc6d6f7">
+
 
 **1. Real-Time Sign Translator** </br>
 
+
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/c16e2e5f-c8ef-44fd-a51b-6c4c2423316d">
+
   
 **2. Text-To-Speech** </br>
+
 
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/2e642346-8119-431d-9a30-326e5932f897">
 
