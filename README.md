@@ -15,6 +15,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Tools, Service and Libraries](#libraries)
+- [User Requirements][#system-requirement)
 - [User Manual](#user-manual)
 - [Our Team](#team)
 
@@ -41,6 +42,13 @@ A few features has on this app :
 
 <img src="https://github.com/CH2-PS248/CH2-PS248/assets/152416965/e5b21f35-3195-4bb8-adb0-0f9dea3286bd">
 
+
+## <a name="system-requirement"></a> System Requirement Spesification :
+
+- <b>Android 11</b>
+- <b>4 GB RAM</b>
+- <b>200 MB Free ROM space</b>
+- <b>Camera</b>
 
 ## <a name="libraries"></a> Tools, Service and Libraries :
   - <b>Cloud Run</b>
